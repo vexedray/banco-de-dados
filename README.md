@@ -19,3 +19,4 @@ Este repositório contém projetos e estudos sobre **Banco de Dados** utilizando
 
 2. Abra o banco de dados no **MySQL** e execute os scripts SQL disponíveis para visualizar a estrutura e os dados.
 
+- [LinkedIn](https://www.linkedin.com/in/rayssa-borges-59097a288/)
